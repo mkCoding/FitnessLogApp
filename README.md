@@ -1,5 +1,22 @@
-# What I learned
+# Description
 
+- Design a simple two-screen fitness logging app with input validation, conditional UI, and summary display.
+
+# Users should be able to:
+  1. Enter a fitness log (exercise name, duration, difficulty)
+  2. Validate the inputs
+  3. Compute calories burned (simple formula)
+  4. Navigate to a summary screen
+  5. Display all details + computed result
+
+### Additional Notes:
+- Calories Burned = duration * difficultyMultiplier
+- difficultyMultipliers:
+  - Easy = 4
+  - Medium = 6
+  - Hard = 8
+
+# What I learned
 - How to navigate from one screen to another with arguments in AppNavGraph
 - Using Dropdown Menus to select from list of values and pass those values to another screen
 - Use Objects to create constance for Navigation routes
