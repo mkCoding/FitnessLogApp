@@ -19,7 +19,7 @@
 # What I learned
 - How to navigate from one screen to another with arguments in AppNavGraph
 - Using Dropdown Menus to select from list of values and pass those values to another screen
-- Use Objects to create constance for Navigation routes
+- Use Objects to create constants for Navigation routes
 - Incorporate separation of conserns in Composable Screen
 
 Video Proof
